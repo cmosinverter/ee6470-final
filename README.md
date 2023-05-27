@@ -1,6 +1,6 @@
-## Cross-compile Median and Weighted Mean Filter to RISC-V VP platform
+## Cross-compile Path Counter to RISC-V VP platform
 
-This is the project that implements ee6470 homework 4
+This is the project that implements ee6470 Final Project
 
 ## Usage
 1. Clone the file to ./ee6470 folder (Git Bash)
